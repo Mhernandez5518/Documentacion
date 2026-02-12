@@ -1,0 +1,8 @@
+{
+  "label": "N8N",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentación de automatizaciones con N8N"
+  }
+}
