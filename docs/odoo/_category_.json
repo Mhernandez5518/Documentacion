@@ -1,8 +1,8 @@
 {
-  "label": "ODOO",
+  "label": "Inventario de productos Odoo",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Documentación del proyecto ODOO"
+    "description": "Documentación del proyecto de Inventario Odoo"
   }
 }

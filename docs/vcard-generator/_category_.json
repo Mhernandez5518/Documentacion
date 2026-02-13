@@ -1,0 +1,8 @@
+{
+  "label": "Generador VCards",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentación del Generador de Tarjetas Digitales y QRs"
+  }
+}
